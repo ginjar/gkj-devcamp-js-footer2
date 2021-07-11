@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ginjar/gkj-devcamp-js-footer.git"
+    "url": "git+https://github.com/ginjar/gkj-devcamp-js-footer2.git"
   },
   "keywords": [
     "footer"
@@ -16,9 +16,9 @@
   "author": "Gina Jarvis <gkjarvis81@gmail.com> (https://www.npmjs.com/~ginajarvis)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ginjar/gkj-devcamp-js-footer/issues"
+    "url": "https://github.com/ginjar/gkj-devcamp-js-footer2/issues"
   },
-  "homepage": "https://github.com/ginjar/gkj-devcamp-js-footer#readme",
+  "homepage": "https://github.com/ginjar/gkj-devcamp-js-footer2#readme",
   "dependencies": {
     "moment": "^2.29.1"
   }
